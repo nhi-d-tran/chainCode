@@ -68,13 +68,13 @@ III. In Main
 *******************************
 step 1: inFile <- open the input file, argv[1]
 
-            - open outFile1 and outFile2
+             open outFile1 and outFile2
             
-            - read image header from inFile
+             read image header from inFile
             
-            - output the image header to outFile1
+             output the image header to outFile1
             
-            - output image header to outFile2 // per text line
+             output image header to outFile2 // per text line
             
 step 2: imgAry <- dynamically allocated
 
